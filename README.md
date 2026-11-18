@@ -1,4 +1,4 @@
-# Project 2: Build a Game With AI
+# Project 3: Build a Game With AI
 
 **AP Computer Science A | Semester 1 | 30 points | Individual**
 
