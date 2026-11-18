@@ -19,7 +19,7 @@ Four things.
 * You have arrays now. The no-arrays rule is gone and the opposite replaces it: your game has to be built on one.
 * You are building a game, so real data from your own life no longer fits. Rule 1 is now a house rule you invent.
 * Every project gets a live change. I name one small edit and you make it with AI closed. If the code is yours, it takes about thirty seconds.
-* Most of the points are for the program now. The presentation is worth less, because we may not have time for everyone to present to the class.
+* Most of the points are for the program now.
 
 ## What you are allowed to build
 
